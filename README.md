@@ -5,6 +5,7 @@
 
 ![image](https://github.com/mazen200/Speech-Recognition/assets/113688043/42e304e4-a225-4e0b-8bd7-e9669bda91ba)
 
+  ![Logo](https://img.shields.io/badge/Made_by-Python-blue)      ![Logo](https://img.shields.io/badge/GUI-Tkinter-red)
 ## Using
 1 - **Before you can run this application, ensure you have the following installed:**
 
